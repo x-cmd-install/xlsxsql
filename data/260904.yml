@@ -7,7 +7,7 @@ about:
   head: 801b527
   archived: false
   latestVersion: v0.5.3
-  collectedAt: 2026-09-04T19:30:45Z
+  collectedAt: 2026-09-04T21:05:59Z
 timeline:
   created: 2023-10-26
   lastCommit: 2026-06-22
@@ -81,5 +81,28 @@ total:
   openIssue: 0
   commit: 96
 ---
+path: /home/runner/.x-repo/github.com/noborus/xlsxsql
+collectedAt: 2026-09-04T21:06:00Z
+loc:
+  Go:
+    code: 941
+    comments: 66
+    blanks: 104
+    files: 9
+  Makefile:
+    code: 14
+    comments: 0
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 210
+    blanks: 85
+    files: 1
+total:
+  code: 955
+  comments: 276
+  blanks: 196
+  files: 11
 ---
 
