@@ -5,7 +5,7 @@ about:
   head: 801b527
   archived: false
   latestVersion: "v0.5.3"
-  collectedAt: 2026-09-07T05:16:43Z
+  collectedAt: 2026-09-07T19:11:05Z
 timeline:
   created: 2023-10-26
   lastCommit: 2026-06-22
@@ -80,7 +80,7 @@ total:
   commit: 96
 ---
 path: /home/runner/.x-repo/github.com/noborus/xlsxsql
-collectedAt: 2026-09-07T05:16:44Z
+collectedAt: 2026-09-07T19:11:05Z
 loc:
   Go:
     code: 941
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:16:45+00:00
+  collectedAt: 2026-09-07T19:11:06+00:00
   platform:
     darwin/arm64:
       name:  xlsxsql_0.5.3_Darwin_arm64.tar.gz
