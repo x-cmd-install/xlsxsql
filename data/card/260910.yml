@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.3"
   latestRelease: "v0.5.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:25:03Z
+  collectedAt: 2026-09-10T17:23:14Z
 timeline:
   created: 2023-10-26
   lastCommit: 2026-06-22
@@ -84,7 +84,7 @@ total:
   commit: 96
 ---
 path: /home/runner/.x-repo/github.com/noborus/xlsxsql
-collectedAt: 2026-09-10T05:25:04Z
+collectedAt: 2026-09-10T17:23:14Z
 loc:
   Go:
     code: 941
