@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 7587479,
       "digest": "sha256:2a9f10157e07e281379ba6126df8fbac19aed99802819f0b6bbc4f50e3bb63e8",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-05-22T05:30:35Z",
       "updated_at": "2026-05-22T05:30:36Z",
       "browser_download_url": "https://github.com/noborus/xlsxsql/releases/download/v0.5.3/xlsxsql_0.5.3_linux_arm64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8319293,
       "digest": "sha256:b8449eebd9b9ee5b225f95b70416f5bc6b65f78f65e5e7fd7eda532fdc641446",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-05-22T05:30:33Z",
       "updated_at": "2026-05-22T05:30:34Z",
       "browser_download_url": "https://github.com/noborus/xlsxsql/releases/download/v0.5.3/xlsxsql_0.5.3_Linux_x86_64.tar.gz"
