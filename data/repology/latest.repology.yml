@@ -1,0 +1,56 @@
+- repo: aur
+  srcname: xlsxsql-bin
+  binname: xlsxsql-bin
+  visiblename: xlsxsql-bin
+  version: 0.5.3
+  origversion: 0.5.3-1
+  status: newest
+  summary: A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: xlsxsql
+  visiblename: xlsxsql
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: xlsxsql
+  visiblename: xlsxsql
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: xlsxsql
+  visiblename: xlsxsql
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: xlsxsql
+  visiblename: xlsxsql
+  version: 0.5.3
+  origversion: null
+  status: newest
+  summary: CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
