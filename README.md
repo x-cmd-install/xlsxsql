@@ -30,7 +30,7 @@ Total: **955** lines of code across **11** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.3` (2026-05-22)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-17
 - **Assets in release**: 15
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **955** lines of code across **11** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 98
+- **Releases**: 9 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-17 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-18 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-20 | 5 | 9 | 1 | 1 | 0 | 4 |
-| 360d | 2025-11-21 | 5 | 10 | 1 | 1 | 0 | 14 |
-| last720d | 2024-11-26 | 5 | 12 | 1 | 1 | 0 | 30 |
+| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-18 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-21 | 5 | 10 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-22 | 5 | 11 | 0 | 1 | 0 | 15 |
+| last720d | 2024-11-27 | 5 | 13 | 0 | 1 | 0 | 32 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for xlsxsql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:30:54Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:17:27Z._
