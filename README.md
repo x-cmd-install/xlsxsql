@@ -45,12 +45,12 @@ Total: **955** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-28 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-29 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-31 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 360d | 2025-12-02 | 5 | 11 | 0 | 1 | 0 | 15 |
-| last720d | 2024-12-07 | 5 | 13 | 0 | 1 | 0 | 32 |
+| 30d | 2026-10-29 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-29 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-30 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-06-01 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 360d | 2025-12-03 | 5 | 11 | 0 | 1 | 0 | 15 |
+| last720d | 2024-12-08 | 5 | 13 | 0 | 1 | 0 | 32 |
 
 ## Release assets
 
@@ -72,14 +72,6 @@ Total: **955** lines of code across **11** files in the top 5 languages.
 | [xlsxsql_0.5.3_Windows_arm64.zip](https://github.com/noborus/xlsxsql/releases/download/v0.5.3/xlsxsql_0.5.3_Windows_arm64.zip) | 7.3 MiB | `native/win/arm64` |
 | [xlsxsql_0.5.3_Windows_x86_64.zip](https://github.com/noborus/xlsxsql/releases/download/v0.5.3/xlsxsql_0.5.3_Windows_x86_64.zip) | 8.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/xlsxsql). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for xlsxsql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xlsxsql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +81,4 @@ Install metadata for xlsxsql lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:13:44Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:18:04Z._
